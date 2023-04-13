@@ -23,6 +23,8 @@ ls *.tgz | xargs -n1 tar xvzf
 ```
 python fits_to_png.py
 ```
+Note that the FITS file contains information such as altitude and location, 
+and is also used to determine the size and distribution of detected boulders.
 
 The following updates are planned for the future.
 * Expansion of annotation data
