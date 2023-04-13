@@ -3,7 +3,7 @@ This is the dataset for **instance segmentation of boulders on Ryugu**.
 This dataset contains 275 images and 20,420 masks (as of March 15th, 2023).
 
 # Getting Started
-Images are provided in [https://data.darts.isas.jaxa.jp/pub/hayabusa2/onc_bundle/browse/](https://data.darts.isas.jaxa.jp/pub/hayabusa2/onc_bundle/browse/)
+Images are provided in [Data ARchives and Transmission System (DARTS)](https://data.darts.isas.jaxa.jp/pub/hayabusa2/onc_bundle/browse/).
 Download and unzip fits file.
 
 ```
