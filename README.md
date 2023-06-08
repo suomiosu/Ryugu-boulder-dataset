@@ -40,5 +40,5 @@ The following updates are planned for the future.
 * Improvement of image sharpness
 * Publication of the instance segmentation model for automatic boulder detection
 
-# Acknowledgement
-This work was supported by research program by ARC-Space
+## Acknowledgement
+This work was supported by research program by ARC-Space, the university of Aizu.
