@@ -4,13 +4,13 @@ Convert FITS files to png images
 This dataset uses only images taken at altitudes <5km and in visible light
 
 """
+import os
+import glob
 import numpy as np
 from astropy.io import fits
 from scipy import ndimage
 
 from PIL import Image
-import os
-import glob
 
 # get folder names (yyyymmdd)
 path = "path/to/dir"
