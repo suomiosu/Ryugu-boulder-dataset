@@ -26,7 +26,7 @@ python fits_to_png.py
 Note that the FITS file contains information such as altitude and location, 
 and is also used to determine the size and distribution of detected boulders.
 
-3.Visualize json file into png files with:
+3. Visualize json file into png files with:
 
 ```
 python visualize.py
