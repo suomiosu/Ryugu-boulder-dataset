@@ -41,4 +41,4 @@ The following updates are planned for the future.
 * Publication of the instance segmentation model for automatic boulder detection
 
 ## Acknowledgement
-This work was supported by research program by ARC-Space, the university of Aizu.
+This work was supported by MEXT Promotion of Distinctive Joint Research Center Program Grant Number JPMXP0619217839/JPMXP0622717003.
